@@ -4,6 +4,12 @@ This project is aimed to train a model to play the Chrome Dino game (also known 
 
 ![alt text](Demo.gif?raw=true)
 
+
+Deep Q Learning methodology:
+
 ![alt text](Deep_Q_Learning.png?raw=true)
+
+
+Deep Q Network model architecture
 
 ![alt text](Deep_Q_Network_model_architecture.png?raw=true)
