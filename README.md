@@ -8,4 +8,4 @@ Deep Q Learning Framework
 ![alt text](Deep_Q_Learning.png?raw=true)
 
 Deep Q Network Model Architecture
-![alt text](Deep_Q_Network_Model_Architecture.png?raw=true)
+![alt text](Deep_Q_Network_model_architecture.png?raw=true)
