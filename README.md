@@ -10,6 +10,6 @@ Deep Q Learning methodology:
 ![alt text](Deep_Q_Learning.png?raw=true)
 
 
-Deep Q Network model architecture
+Deep Q Network model architecture:
 
 ![alt text](Deep_Q_Network_model_architecture.png?raw=true)
